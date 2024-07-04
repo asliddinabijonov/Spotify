@@ -10,9 +10,9 @@ from rest_framework.routers import DefaultRouter
 
 schema_view = get_schema_view(
     openapi.Info(
-        title="Omborxona API",
+        title="Spotify API",
         default_version='v1',
-        description="Test description",
+        description="######",
         terms_of_service="#",
         contact=openapi.Contact(email="https://asliddinabijonov04@gmail.com"),
         license=openapi.License(name="#"),
